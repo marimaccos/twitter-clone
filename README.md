@@ -1,4 +1,6 @@
-# TwitterClone
+# Twitter Clone
+
+> A project to learn Angular and its architecture of componentized pages. It was based on the iFood Dev Week.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.7.
 
